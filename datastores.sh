@@ -19,7 +19,7 @@ fi
 brew update
 
 # Install data stores
-brew install mysql
+brew install mysql@5.7
 #brew install postgresql
 #brew install mongo
 #brew install redis
