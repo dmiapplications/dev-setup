@@ -22,7 +22,7 @@ brew install node
 
 # Install postman
 
-brew install postman --cask
+brew install --cask postman
 
 # Remove outdated versions from the cellar.
 brew cleanup

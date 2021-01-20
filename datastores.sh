@@ -28,7 +28,7 @@ brew install mysql@5.7
 # Install mysql workbench
 # Install Cask
 #brew install caskroom/cask/brew-cask
-brew install --appdir="/Applications" mysqlworkbench --cask
+brew install --cask --appdir="/Applications" mysqlworkbench
 
 # Remove outdated versions from the cellar.
 brew cleanup
